@@ -4,7 +4,7 @@ This is our code base for our Final Project for ISE 540 (Text Analytics), Fall S
 
 
 Group Members: 
-Sree Vaishnavi Bacha 
+Shree Vaishnavi Bacha 
 Vishal Patil
 Yash Verma
 Revanth Yamani
