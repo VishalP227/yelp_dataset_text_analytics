@@ -1,2 +1,3 @@
-# yelp_dataset_text_analytics
-Repo for text analytics project
+# Dataset
+labelled_dataset.csv - dataset used to train the machine learning models
+
