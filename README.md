@@ -4,11 +4,11 @@ This is our code base for our Final Project for ISE 540 (Text Analytics), Fall S
 
 
 Group Members: 
-Shree Vaishnavi Bacha 
-Vishal Patil
-Yash Verma
-Revanth Yamani
-Janis Yue 
+- Shree Vaishnavi Bacha
+- Vishal Patil
+- Yash Verma
+- Revanth Yamani
+- Janis Yue 
 
 Folders:
 
@@ -36,7 +36,7 @@ Some dataset files were too large to upload to github. To access those files, we
 
 Usage of the Files included: 
 
-Data Exploration
+Data Exploration: More info is given on these notebooks within the folder
 
 Dataset (subset) creation, sampling 
 
@@ -46,7 +46,7 @@ R code for correlation, significance testing
 
 Running the code:  
 The notebooks can be run on google colab directly without many modifications.  
-One point to note is that the paths from where we are reading the .csv files have to be changed before running the notebooks
+One point to note is that the paths from where we are reading the .csv files have to be changed before running the notebooks.
 
 
 
