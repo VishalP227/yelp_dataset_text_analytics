@@ -34,7 +34,7 @@ Some dataset files were too large to upload to github. To access those files, we
 
 
 
-Explanation of the Files included: 
+Usage of the Files included: 
 
 Data Exploration
 
