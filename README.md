@@ -36,7 +36,7 @@ Some dataset files were too large to upload to github. To access those files, we
 
 Usage of the Files included: 
 
-Data Exploration: More info is given on these notebooks within the folder
+Data Exploration: More info is given on these notebooks within the pilot testing folder.
 
 Dataset (subset) creation, sampling 
 
